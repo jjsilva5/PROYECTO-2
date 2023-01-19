@@ -7,12 +7,21 @@ Integrantes:
 - Pamela Elizabeth Montatixe Almachi
 - Mauricio Joseph Taco Cabrera
 
-1. OBJETIVOS
+1.1  OBJETIVOS:
+Analizar el funcionamiento del Interruptor de 3 vías mejor conocido como luz de escaleras, mediante la creación de circuito a escala de la instalación eléctrica para poder analizar desde un circuito ya realizado los componentes y su correcta conexión al circuito y a las fuentes de alimentación.
 
+1.2 Específicos:
+•	Recrear un circuito con la función del Interruptor, mediante la guía de un circuito sistemático.
 
 
 2. MARCO TEÓRICO
 
+Un conmutador es un dispositivo que permite controlar un punto de luz desde dos mandos distintos.
+Internamente el conmutador es muy similar al interruptor, simplemente se le añade otro contacto. Si en el interruptor teníamos 2 cables en el conmutador tendremos 3.
+Hay que tener en cuenta además, que un conmutador también puede actuar como interruptor si se conecta para ello, pero un interruptor nunca puede hacer de conmutador.Una utilidad clásica es la del pasillo donde comandamos con un conmutador uno al inicio y otro al final.
+
+El cable neutro de una instalación eléctrica sirve como conductor de retorno de la corriente que circula por los circuitos monofásicos
+ fase, este término hace referencia al conductor activo es decir al conductor que transporta la corriente eléctrica normalmente desde la red hasta el enchufe o interruptor
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -73,3 +82,5 @@ https://youtu.be/7BQvvKdDEUA
 
 6. BIBLIOGRAFÍA
 
+ISA Electricistas. (2020). Circuito escalera. Recuperado de: https://www.isaelectricistas.pe/blog/circuito-escalera-conmutacion-simple
+Software utilizado: InstEle.
