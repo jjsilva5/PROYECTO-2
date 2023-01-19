@@ -84,3 +84,5 @@ https://youtu.be/7BQvvKdDEUA
 
 ISA Electricistas. (2020). Circuito escalera. Recuperado de: https://www.isaelectricistas.pe/blog/circuito-escalera-conmutacion-simple
 Software utilizado: InstEle.
+
+Porta, A. (2014, 30 enero). ¿Qué es un conmutador? https://bricoladores.simonelectric.com/bid/361788/qu-es-un-conmutador
